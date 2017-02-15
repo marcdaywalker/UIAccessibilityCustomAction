@@ -10,7 +10,6 @@
 		3A6A52E41E3FCC1D000721F8 /* SimpleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6A52E31E3FCC1D000721F8 /* SimpleCell.swift */; };
 		3A6A52E61E3FCC30000721F8 /* AccessibleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6A52E51E3FCC30000721F8 /* AccessibleCell.swift */; };
 		3A818E051E28148300EA35EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A818E041E28148300EA35EE /* AppDelegate.swift */; };
-		3A818E071E28148300EA35EE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A818E061E28148300EA35EE /* ViewController.swift */; };
 		3A818E0A1E28148300EA35EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A818E081E28148300EA35EE /* Main.storyboard */; };
 		3A818E0C1E28148300EA35EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A818E0B1E28148300EA35EE /* Assets.xcassets */; };
 		3A818E0F1E28148300EA35EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A818E0D1E28148300EA35EE /* LaunchScreen.storyboard */; };
@@ -21,7 +20,6 @@
 		3A6A52E51E3FCC30000721F8 /* AccessibleCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccessibleCell.swift; sourceTree = "<group>"; };
 		3A818E011E28148300EA35EE /* UIAccessibilityCustomAction.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIAccessibilityCustomAction.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A818E041E28148300EA35EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3A818E061E28148300EA35EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3A818E091E28148300EA35EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3A818E0B1E28148300EA35EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A818E0E1E28148300EA35EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -59,7 +57,6 @@
 			isa = PBXGroup;
 			children = (
 				3A818E041E28148300EA35EE /* AppDelegate.swift */,
-				3A818E061E28148300EA35EE /* ViewController.swift */,
 				3A6A52E31E3FCC1D000721F8 /* SimpleCell.swift */,
 				3A6A52E51E3FCC30000721F8 /* AccessibleCell.swift */,
 				3A818E081E28148300EA35EE /* Main.storyboard */,
@@ -143,7 +140,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A818E071E28148300EA35EE /* ViewController.swift in Sources */,
 				3A6A52E61E3FCC30000721F8 /* AccessibleCell.swift in Sources */,
 				3A818E051E28148300EA35EE /* AppDelegate.swift in Sources */,
 				3A6A52E41E3FCC1D000721F8 /* SimpleCell.swift in Sources */,
